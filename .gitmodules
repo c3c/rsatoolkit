@@ -1,0 +1,4 @@
+
+[submodule "rsawienerattack"]
+	path = rsawienerattack
+	url = https://github.com/c3c/rsawienerattack.git
